@@ -1,0 +1,7 @@
+[package]
+name = "ternary-auto-vectorizer"
+version = "0.1.0"
+edition = "2021"
+description = "Automatically lifts scalar Z₃ ternary operations to warp-level parallel versions. Proves vectorized output is equivalent to scalar input — a real compiler optimization pass for ternary GPU code."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/ternary-auto-vectorizer"
